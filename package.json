@@ -1,0 +1,19 @@
+{
+  "name": "note-master-2000",
+  "version": "1.0.0",
+  "description": "Express.js is featured in module 11, and is used to connect this note-taking app's front end to the back end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxr-e/note-master-2000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxr-e/note-master-2000/issues"
+  },
+  "homepage": "https://github.com/maxr-e/note-master-2000#readme"
+}
